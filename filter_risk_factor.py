@@ -65,15 +65,14 @@ def load_data(maternal, risk, sepsis):
         df - Pandas DataFrame containing maternal data filtered by risk factor and sepsis type
     """
      # load data file into a dataframe
-    df = pd.read_csv(SEPSIS_DATA)
+    df = pd.read_csv(SEPSIS_DATA[maternal])
 
 
 
 
 
 
-     # filter by maternal_window
-    df = df[df["Maternal_Window"] == maternal]
+     
 
      # filter by risk_factor
     df = df[df["Risk_Factor"] == risk]
