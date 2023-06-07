@@ -11,12 +11,12 @@ Numpy, Pandas, Matplotlib, Seaborn
 The following files are in the repository:
 
 
-Capstone_Project_Maternal_Health_Dicussion.pdf
+### Capstone_Project_Maternal_Health_Dicussion.pdf
 
 In this text are discussed serveral questions about the dataset
 
 
-Sepsis.ipynb
+### Sepsis.ipynb
 
 The jupyter notebook to answer the questions of the disussion file
 
@@ -26,17 +26,17 @@ risk_factor_filter.py
 The programm to try yourself, if the risk factor is signicant
 
 
-Maternal_Sepsis_by_Select_Risk_Factors__SPARCS__2016-2018.csv
+### Maternal_Sepsis_by_Select_Risk_Factors__SPARCS__2016-2018.csv
 
 The dataset
 
 
-HDNY_MaternalSepsis_RiskFactors_DataDictionary_v2.pdf
+### HDNY_MaternalSepsis_RiskFactors_DataDictionary_v2.pdf
 
 The dictionary of the columns in the dataset
 
 
-rows.json
+### rows.json
 
 a json file with further informations about the dataset
 
