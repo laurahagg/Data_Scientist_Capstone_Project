@@ -100,3 +100,6 @@ Enjoy using the program and exploring the significance of different combinations
 
 Please note that the accuracy and reliability of the program's results depend on the underlying data and statistical analysis methods used.
 
+## Acknowledgements
+
+I would like to express my heartfelt gratitude to my husband for his unwavering support and understanding throughout the duration of this project. His dedication to taking care of our children allowed me the time and space to immerse myself in programming and engaging in discussions about sepsis risks during maternity. I am truly grateful for his love and support, which made this endeavor possible.
