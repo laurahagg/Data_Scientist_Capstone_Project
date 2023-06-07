@@ -1,6 +1,12 @@
 # Data_Scientist_Capstone_Project
 Maternal Sepsis by Select Risk Factors
 
+I am a Data Analyst, a budding Data Scientist, a Pharmacist, and a mother of two kids. Analyzing healthcare data, particularly data related to maternal health, is a personal interest of mine. I embarked on a quest to find this specific type of data, and in this project, I will present a comprehensive discussion aiming to answer questions about the risk factors associated with sepsis during maternity.
+
+To enhance your involvement in the analysis process, I have developed an interactive program that allows you to explore which risk factors pose a significant risk of sepsis during each maternal window (pregnancy, delivery, and postpartum). This program empowers you to delve into the data and make your own discoveries.
+
+I am excited to share this project with you and hope it provides valuable insights into the risks associated with sepsis during maternity.
+
 
 ## Libraries
 for the project the following libraries had been used:
